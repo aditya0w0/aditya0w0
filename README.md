@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="github.com/aditya0w0">
-    <img src="./assets/magic.gif" alt="Banner">
+    <img src="./images/magic.gif" alt="Banner">
   </a>
 </p>
 
@@ -10,18 +10,17 @@
 
 <!----<p align="center">
   <a href="https://aditya0w0.com">
-    <img src="https://aditya0w0.com/88x31.webp" alt="aditya0w0">
+    <img src="https://aditya0w0.com/" alt="aditya0w0">
   </a>
 </p> ------->
 
 <h3 align="center">Welcome to my GitHub profile :3</h3>
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+<p align="center">❤ Currently, I'm focused on web and Android development, with an interest in anime and manga.</p>
 
 <p align="center">
   <strong><a href="https://aditya0w0.com">Website</a></strong> |
   <strong><a href="https://x.com/">Twitter</a></strong> |
-  <strong><a href="https://bsky.app/profile/">Bluesky</a></strong> |
   <strong><a href="https://discord.gg/">Discord</a></strong> |
   <strong><a href="https://google.com/">PGP</a></strong>
 </p>
