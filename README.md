@@ -7,7 +7,8 @@
 </p>
 
 <h1 align="center">Hi, I'm <a href="github.com/aditya0w0">aditya0w0</a>!</h1>
-<-!----<p align="center">
+
+<!----<p align="center">
   <a href="https://aditya0w0.com">
     <img src="https://aditya0w0.com/88x31.webp" alt="aditya0w0">
   </a>
